@@ -1,3 +1,10 @@
+# Вернуться обратно к теории
+
+[<strong style="color:#0000FF">Вернуться к теории</strong>](https://github.com/immanuwell/informatics#readme)
+
+
+
+
 # 1 задание
 
 
